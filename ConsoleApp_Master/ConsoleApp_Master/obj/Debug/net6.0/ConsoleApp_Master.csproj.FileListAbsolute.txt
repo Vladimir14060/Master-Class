@@ -1,0 +1,15 @@
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\bin\Debug\net6.0\ConsoleApp_Master.exe
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\bin\Debug\net6.0\ConsoleApp_Master.deps.json
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\bin\Debug\net6.0\ConsoleApp_Master.runtimeconfig.json
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\bin\Debug\net6.0\ConsoleApp_Master.dll
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\bin\Debug\net6.0\ConsoleApp_Master.pdb
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\ConsoleApp_Master.csproj.AssemblyReference.cache
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\ConsoleApp_Master.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\ConsoleApp_Master.AssemblyInfoInputs.cache
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\ConsoleApp_Master.AssemblyInfo.cs
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\ConsoleApp_Master.csproj.CoreCompileInputs.cache
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\ConsoleApp_Master.dll
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\refint\ConsoleApp_Master.dll
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\ConsoleApp_Master.pdb
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\ConsoleApp_Master.genruntimeconfig.cache
+D:\C sharp\ConsoleApp_Master\ConsoleApp_Master\obj\Debug\net6.0\ref\ConsoleApp_Master.dll
